@@ -29,6 +29,11 @@ The motto of my life is to be determined towards the Information technology worl
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
 
 
 
