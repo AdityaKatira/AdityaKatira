@@ -32,29 +32,29 @@ The motto of my life is to be determined towards the Information technology worl
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/alibabacloud.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/ansible.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/apachekafka.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/chef.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/docker.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elastic.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elasticsearch.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elasticstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/git.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/github.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/githubactions.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/gitlab.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/grafana.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/jenkins.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/kibana.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/kubernetes.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nginx.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/openstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/prometheus.svg" width="65px"/></a>&nbsp;&nbsp;
 
 
 
