@@ -19,16 +19,16 @@ The motto of my life is to be determined towards the Information technology worl
 
 <br>
 
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/windows.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/linux.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/centos.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/ubuntu.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/redhat.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/vmware.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/microsoftazure.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/googlecloud.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
