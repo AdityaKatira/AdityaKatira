@@ -80,6 +80,18 @@ The motto of my life is to be determined towards the Information technology worl
 <a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
                 <img src="SVG/gmail.svg" width="65px"/></a>&nbsp;&nbsp;
 
+&nbsp;
+
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/puppet.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/rabbitmq.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/rancher.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/saltstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/splunk.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/terraform.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/vagrant.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/dynatrace.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/datadog.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/bitbucket.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 # Support Me
