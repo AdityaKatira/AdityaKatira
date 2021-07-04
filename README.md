@@ -30,16 +30,7 @@ The motto of my life is to be determined towards the Information technology worl
 <td align="center" width="140" height="112.43">
                 <img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
 
-&nbsp;
 
-<td align="center" width="140" height="112.43">
-                <img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<td align="center" width="140" height="112.43">
-                <img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<td align="center" width="140" height="112.43">
-                <img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
-<td align="center" width="140" height="112.43">
-                <img src="SVG/buymeacoffee.svg" width="65px"/></a>&nbsp;&nbsp;
 
 <br>
 
@@ -47,16 +38,6 @@ The motto of my life is to be determined towards the Information technology worl
 
 # Licences and Certifications
 
-<a href="https://www.credly.com/badges/43ecce52-1d6b-470f-8665-73335bf53167/public_url"><td align="center" width="140" height="112.43">
-                <img src="PNG/microsoft-certified-azure-administrator.png" width="65px"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/8ab2694d-d115-43fe-b51d-b453c9031b74/public_url"><td align="center" width="140" height="112.43">
-                <img src="PNG/microsoft-certified-azure-security-engineer-associate.png" width="65px"/></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/4f21f40f-1b98-4267-bc74-072b469508a4/public_url"><td align="center" width="140" height="112.43">
-                <img src="PNG/microsoft-certified-azure-solutions-architect-expert.png" width="65px"/></a>&nbsp;&nbsp;
- <a href="https://www.credly.com/badges/c7f00281-acf4-497a-bb7b-14c990d8d723/public_url"><td align="center" width="140" height="112.43">
-                <img src="PNG/microsoft-certified-devops-engineer-expert.png" width="65px"/></a>&nbsp;&nbsp;           
- <a href="https://www.credly.com/badges/f7661e40-47cc-417b-a1f8-a2fadcfc5859/public_url"><td align="center" width="140" height="112.43">
-                <img src="PNG/aws-certified-solutions-architect-associate.png" width="65px"/></a>&nbsp;&nbsp;
 <a href="https://www.credly.com/users/aditya-katira"><td align="center" width="140" height="112.43">
                 <img src="SVG/acclaim.svg" width="65px"/></a>&nbsp;&nbsp;          
                                     
