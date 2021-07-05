@@ -20,39 +20,45 @@ The motto of my life is to be determined towards the Information technology worl
 <br>
 
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/windows.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/linux.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/centos.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/ubuntu.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/redhat.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/vmware.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/microsoftazure.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/googlecloud.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/alibabacloud.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/alibabacloud.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/ansible.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/apachekafka.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/chef.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/docker.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elastic.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elasticsearch.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elasticstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/vmware.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/cisco.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/fortinet.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/junipernetworks.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/sonicwall.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/git.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/github.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/gitlab.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/bitbucket.svg" width="65px"/></a>&nbsp;&nbsp;
+
+
+
+
+
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/githubactions.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/gitlab.svg" width="65px"/></a>&nbsp;&nbsp;
+
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/docker.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/kubernetes.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/ansible.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/chef.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/grafana.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/jenkins.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/kibana.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/kubernetes.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nginx.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/elastic.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/openstack.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/prometheus.svg" width="65px"/></a>&nbsp;&nbsp;
 
@@ -60,6 +66,7 @@ The motto of my life is to be determined towards the Information technology worl
 
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/puppet.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/rabbitmq.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="SVG/nginx.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/rancher.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/saltstack.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/splunk.svg" width="65px"/></a>&nbsp;&nbsp;
@@ -67,7 +74,7 @@ The motto of my life is to be determined towards the Information technology worl
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/vagrant.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/dynatrace.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="SVG/datadog.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="SVG/bitbucket.svg" width="65px"/></a>&nbsp;&nbsp;
+
 
 
 <br>
@@ -89,6 +96,10 @@ The motto of my life is to be determined towards the Information technology worl
                 <img src="SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
                 <img src="SVG/internetexplorer.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
+                <img src="SVG/medium.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
+                <img src="SVG/upwork.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
                 <img src="SVG/gmail.svg" width="65px"/></a>&nbsp;&nbsp;
 
