@@ -93,14 +93,14 @@ The motto of my life is to be determined towards the Information technology worl
 # Quick Links
 
 <a href="https://www.linkedin.com/in/adityakatira/"><td align="center" width="140" height="112.43">
-                <img src="SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;
+                <img src="SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
-                <img src="SVG/internetexplorer.svg" width="65px"/></a>&nbsp;&nbsp;
+                <img src="SVG/internetexplorer.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@adityakatira
 "><td align="center" width="140" height="112.43">
-                <img src="SVG/medium.svg" width="65px"/></a>&nbsp;&nbsp;
+                <img src="SVG/medium.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~0182eee2a31a2391c9"><td align="center" width="140" height="112.43">
-                <img src="SVG/upwork.svg" width="65px"/></a>&nbsp;&nbsp;
+                <img src="SVG/upwork.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
                 <img src="SVG/gmail.svg" width="65px"/></a>&nbsp;&nbsp;
 
