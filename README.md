@@ -10,9 +10,12 @@
 
 # About myself
 
-Performance-driven professional with extensive experience in leveraging operations and development in automating and optimizing critical deployments, maintenance, and updates over large infrastructure, including AWS and AZURE. Well-versed in the developing Continuous Integration/ Continuous Delivery pipelines. Adept at keeping abreast of the latest and emerging technologies, making innovative suggestions for better solutions to problems, and collaborating with other professionals to achieve set or organizational goals. Drive strategies and approaches that balance customer needs with business objectives while achieving deadlines with uncompromising precision and effectiveness.
+☁️ Cloud Infrastructure & Information Security Engineer 🔐 with extensive experience in leveraging operations and development in automating and optimizing critical deployments, maintenance, and updates over large infrastructure, including AWS and AZURE. Well-versed in in building high-availability environments using automation (Infrastructure as Code) combined with Continuous Integration and Continuous Delivery (CI/CD). 💻 Hobbyist Technical Writer - Interested in DevOps, Cloud Computing, Cyber Security, Networking, and Data Center Technologies.
+
+I have a passion for discovering and working with cutting-edge technology. I am a constant and quick learner. I enjoy collaborating with others to solve problems. 
 
 The motto of my life is to be determined towards the Information technology world and its development for the betterment in the standard of living of the society.
+
 
 &nbsp;
 # Tech Stack
