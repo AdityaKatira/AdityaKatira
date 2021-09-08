@@ -14,9 +14,6 @@
 
 I have a passion for discovering and working with cutting-edge technology. I am a constant and quick learner. I enjoy collaborating with others to solve problems. 
 
-The motto of my life is to be determined towards the Information technology world and its development for the betterment in the standard of living of the society.
-
-
 &nbsp;
 # Tech Stack
 
