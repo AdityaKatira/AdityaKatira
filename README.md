@@ -10,9 +10,15 @@
 
 # About myself
 
-☁️ Cloud Infrastructure & Information Security Engineer 🔐 with extensive experience in leveraging operations and development in automating and optimizing critical deployments, maintenance, and updates over large infrastructure, including AWS and AZURE. Well-versed in in building high-availability environments using automation (Infrastructure as Code) combined with Continuous Integration and Continuous Delivery (CI/CD). 💻 Hobbyist Technical Writer - Interested in DevOps, Cloud Computing, Cyber Security, Networking, and Data Center Technologies.
+“Cybersecurity is like going to the gym, you can’t get better by watching others, you’ve got to go there every day.”
 
-I have a passion for discovering and working with cutting-edge technology. I am a constant and quick learner. I enjoy collaborating with others to solve problems. 
+It is 2022, and Security is now essential for digital transformation and a universal priority. Security is built into every product and service across. When cybersecurity evolves as fast, or faster than the technology we rely on. Our challenge is to help define what it means to be a digital civilization and develop the protections necessary to stay ahead of those with malicious intent.
+
+I love to proactively tackle bad guys and I work on defending and improving organization defence around the clock to ensure the safety of our customers' privacy and information and help organizations enhance their security posture before any malicious actor breaks in. I have been passionate about Cyber Security for quite a long and it keeps my spirit driving.
+
+My experience spans diverse landscapes. I lead the Information Security, Client Data Protection (CDP), Identity Access Management, Governance, Risk management, Security compliance, Endpoint security, IDS/IPS, Security assessment, Vulnerability Management, Threat Mapping, Security Information and Event Management (SIEM), Cloud security, Security management as per global standards like DFARS, FedRamp, NIST, ISO/IEC 27001, NYDFS, GDPR, CPS234, CMMC, PCI DSS.
+
+I am never afraid to take calculated risks to maximize impact. My risk-based outlook helps me to make the digital world secure and safe for everyone. 
 
 &nbsp;
 # Tech Stack
