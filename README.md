@@ -23,7 +23,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 &nbsp;
 # Tech Stack
 
-<div>
+<div style="margin: 10px;">
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
@@ -36,7 +36,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
 </div>
 <br>
-<div>
+<div style="margin: 10px;">
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlecloud.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/alibabacloud.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/git.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
@@ -49,7 +49,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
 </div>
 <br>
-<div>
+<div style="margin: 10px;"
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/fortinet.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/junipernetworks.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/cisco.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
@@ -62,7 +62,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/datadog.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
 </div>
 <br>
-<div>
+<div style="margin: 10px;"
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/newrelic.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/falco.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/auth0.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
@@ -75,7 +75,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/jenkins.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
 </div>
 <br>
-<div>
+<div style="margin: 10px;"
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/grafana.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elastic.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
     <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elasticstack.svg" width="140" height="112.43" style="display: inline-block;"></a>&nbsp;&nbsp;
