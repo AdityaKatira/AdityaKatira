@@ -21,32 +21,78 @@ My experience spans diverse landscapes. I lead the Information Security, Client 
 I am never afraid to take calculated risks to maximize impact. My risk-based outlook helps me to make the digital world  secure and safe for everyone.
 
 &nbsp;
-
 # Tech Stack
 
 <br>
-&nbsp;
-<table>
-<tr>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/openstack.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vmware.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg" width="65px"></a></td>
-	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="65px"></a></td>
-</tr>
-</table>
-&nbsp;
 
-<!-- Repeat the above structure for the remaining icons -->
-<!-- Don't forget to close the table tag at the end if needed -->
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/openstack.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vmware.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg"  width="65px"/></a>&nbsp;&nbsp;
+    
+	&nbsp;
+	
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlecloud.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/alibabacloud.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/git.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/docker.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/kubernetes.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/terraform.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/prometheus.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/splunk.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/wireshark.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg"  width="65px"/></a>&nbsp;&nbsp;
+    
+	&nbsp;
+	
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/fortinet.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/junipernetworks.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/cisco.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/qualys.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/trendmicro.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sonicwall.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/paloaltonetworks.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/dynatrace.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/aqua.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/datadog.svg"  width="65px"/></a>&nbsp;&nbsp;
+    
+	&nbsp;
+	
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/newrelic.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/falco.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/auth0.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/okta.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/veeam.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/pagerduty.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/snowflake.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/ansible.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/chef.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/jenkins.svg"  width="65px"/></a>&nbsp;&nbsp;
+    
+	&nbsp;
+	
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/grafana.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elastic.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elasticstack.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/puppet.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/saltstack.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vagrant.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/rancher.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/apachekafka.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nginx.svg"  width="65px"/></a>&nbsp;&nbsp;
+    <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/rabbitmq.svg"  width="65px"/></a>&nbsp;&nbsp;
+	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/go.svg"  width="65px"/></a>&nbsp;&nbsp;
+
+
 <br>
-&nbsp;
 
+&nbsp;
 
 # Licences and Certifications
 
