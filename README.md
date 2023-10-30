@@ -25,37 +25,28 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 # Tech Stack
 
 <br>
-
-<div>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="65px" alt="Microsoft"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px" alt="Microsoft Office"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="65px" alt="Linux"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg" width="65px" alt="Red Hat"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/openstack.svg" width="65px" alt="OpenStack"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vmware.svg" width="65px" alt="VMware"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg" width="65px" alt="Citrix"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg" width="65px" alt="Nutanix"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg" width="65px" alt="Microsoft Azure"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="65px" alt="Amazon AWS"/></a>
-</div>
-
-<div>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlecloud.svg" width="65px" alt="Google Cloud"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/alibabacloud.svg" width="65px" alt="Alibaba Cloud"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/git.svg" width="65px" alt="Git"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/docker.svg" width="65px" alt="Docker"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/kubernetes.svg" width="65px" alt="Kubernetes"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/terraform.svg" width="65px" alt="Terraform"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/prometheus.svg" width="65px" alt="Prometheus"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/splunk.svg" width="65px" alt="Splunk"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/wireshark.svg" width="65px" alt="Wireshark"/></a>
-   <a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg" width="65px" alt="Sumo Logic"/></a>
-</div>
-
-
-<br>
-
 &nbsp;
+<table>
+<tr>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/openstack.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vmware.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg" width="65px"></a></td>
+	<td align="center" width="140" height="112.43"><a href=""><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="65px"></a></td>
+</tr>
+</table>
+&nbsp;
+
+<!-- Repeat the above structure for the remaining icons -->
+<!-- Don't forget to close the table tag at the end if needed -->
+<br>
+&nbsp;
+
 
 # Licences and Certifications
 
