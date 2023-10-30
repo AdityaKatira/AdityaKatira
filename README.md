@@ -21,9 +21,12 @@ My experience spans diverse landscapes. I lead the Information Security, Client 
 I am never afraid to take calculated risks to maximize impact. My risk-based outlook helps me to make the digital world  secure and safe for everyone.
 
 &nbsp;
+
 # Tech Stack
 
 <br>
+
+&nbsp;
 
 	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="65px"/></a>&nbsp;&nbsp;
 	<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
