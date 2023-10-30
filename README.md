@@ -95,7 +95,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 # Licences and Certifications
 
 <a href="https://www.credly.com/users/aditya-katira"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/acclaim.svg" width="65px"/></a>&nbsp;&nbsp;          
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/credly.svg" width="65px"/></a>&nbsp;&nbsp;          
                                     
                           
 
@@ -109,9 +109,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
                 <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/internetexplorer.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@adityakatira
 "><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/medium.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~0182eee2a31a2391c9"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/upwork.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/x.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/gmail.svg" width="65px"/></a>&nbsp;&nbsp;
 
