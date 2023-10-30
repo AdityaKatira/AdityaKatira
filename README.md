@@ -97,21 +97,19 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 <a href="https://www.credly.com/users/aditya-katira"><td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/credly.svg" width="65px"/></a>&nbsp;&nbsp;          
                                     
-                          
-
 &nbsp;
 
 # Quick Links
 
+<a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlechrome.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/adityakatira/"><td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/internetexplorer.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/AdityaKatira
+				<a href="https://twitter.com/AdityaKatira
 "><td align="center" width="140" height="112.43">
                 <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/x.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:adityakatira28@gmail.com"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/gmail.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href="mailto:adityakatira@hotmail.com"><td align="center" width="140" height="112.43">
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoutlook.svg" width="65px"/></a>&nbsp;&nbsp;
 
 
 &nbsp;
