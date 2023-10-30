@@ -47,10 +47,10 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/prometheus.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/splunk.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/wireshark.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/fortinet.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/junipernetworks.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/cisco.svg" width="65px"/></a>&nbsp;&nbsp;
@@ -59,10 +59,10 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sonicwall.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/paloaltonetworks.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/dynatrace.svg" width="65px"/></a>&nbsp;&nbsp;
-    
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/aqua.svg" width="65px"/></a>&nbsp;&nbsp;
+   
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/aqua.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/datadog.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/newrelic.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/falco.svg" width="65px"/></a>&nbsp;&nbsp;
