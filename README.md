@@ -3,7 +3,7 @@
 &nbsp;
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/Blogging Minimalistic/Blogging Minimalistic/blogging.svg" width="480px"/>
+    <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/Blogging Minimalistic/Blogging Minimalistic/blogging.svg" width="480px"/>
 </p>
 
 &nbsp;
@@ -25,68 +25,68 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 
 <br>
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoft.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/openstack.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vmware.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/microsoft.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/linux.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/redhat.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/openstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/vmware.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/citrix.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/microsoftazure.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
  
 &nbsp;
  
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlecloud.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/alibabacloud.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/git.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/docker.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/kubernetes.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/terraform.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/prometheus.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/splunk.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/wireshark.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sumologic.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/googlecloud.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/alibabacloud.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/git.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/docker.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/kubernetes.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/terraform.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/prometheus.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/splunk.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/wireshark.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/sumologic.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/fortinet.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/junipernetworks.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/cisco.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/qualys.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/trendmicro.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/sonicwall.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/paloaltonetworks.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/dynatrace.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/aqua.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/datadog.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/fortinet.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/junipernetworks.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/cisco.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/qualys.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/trendmicro.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/sonicwall.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/paloaltonetworks.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/dynatrace.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/aqua.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/datadog.svg" width="65px"/></a>&nbsp;&nbsp;
    
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/newrelic.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/falco.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/auth0.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/okta.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/veeam.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/pagerduty.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/snowflake.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/ansible.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/chef.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/jenkins.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/newrelic.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/falco.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/auth0.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/okta.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/veeam.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/pagerduty.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/snowflake.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/ansible.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/chef.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/jenkins.svg" width="65px"/></a>&nbsp;&nbsp;
 
 &nbsp;
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/grafana.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elastic.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/elasticstack.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/puppet.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/saltstack.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/vagrant.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/rancher.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/apachekafka.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nginx.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/rabbitmq.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/grafana.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/elastic.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/elasticstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/puppet.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/saltstack.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/vagrant.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/rancher.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/apachekafka.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/nginx.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/rabbitmq.svg" width="65px"/></a>&nbsp;&nbsp;
 
 <br>
 
@@ -95,21 +95,21 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 # Licences and Certifications
 
 <a href="https://www.credly.com/users/aditya-katira"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/credly.svg" width="65px"/></a>&nbsp;&nbsp;          
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/credly.svg" width="65px"/></a>&nbsp;&nbsp;          
                                     
 &nbsp;
 
 # Quick Links
 
 <a href="https://adityakatira.com"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/googlechrome.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/googlechrome.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/adityakatira/"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/linkedin.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 				<a href="https://twitter.com/AdityaKatira
 "><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/x.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/x.svg" width="65px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:adityakatira@hotmail.com"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoutlook.svg" width="65px"/></a>&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/microsoftoutlook.svg" width="65px"/></a>&nbsp;&nbsp;
 
 
 &nbsp;
@@ -118,7 +118,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 If you like the value I provide and want to support, maybe consider buying me a coffe so that I can work more on my skills and produce more value added content 🙌
 <br><br>
 <a href="https://www.buymeacoffee.com/AdityaKatira"><td align="center" width="140" height="112.43">
-                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/buymeacoffee.svg" width="65px"/></a>
+                <img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Static/SVG/buymeacoffee.svg" width="65px"/></a>
 
 
 
