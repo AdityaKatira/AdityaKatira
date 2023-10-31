@@ -34,7 +34,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/citrix.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/nutanix.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftazure.svg" width="65px"/></a>&nbsp;&nbsp;
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/Portfolio/static/images/Tech/amazonaws.svg" width="65px"/></a>&nbsp;&nbsp;
  
 &nbsp;
  
