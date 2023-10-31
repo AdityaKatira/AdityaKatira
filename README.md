@@ -25,7 +25,7 @@ I am never afraid to take calculated risks to maximize impact. My risk-based out
 
 <br>
 
-<a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira28/Node/microsoft.svg" width="65px"/></a>&nbsp;&nbsp;
+<a href=""><td align="center" width="140" height="112.43"><img src="https://raw.githubusercontent.com/AdityaKatira28/Node/microsoft.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/microsoftoffice.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/linux.svg" width="65px"/></a>&nbsp;&nbsp;
 <a href=""><td align="center" width="140" height="112.43"><img src="https://cdn.jsdelivr.net/gh/AdityaKatira/AdityaKatira/SVG/redhat.svg" width="65px"/></a>&nbsp;&nbsp;
