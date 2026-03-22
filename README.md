@@ -10,15 +10,25 @@
 
 # About myself
 
-“Cybersecurity is like going to the gym, you can’t get better by watching others, you’ve got to go there every day.”
+"In the era of AI autonomy, trust is the new currency."
 
-Security is now essential for digital transformation and a universal priority. Security is built into every product and service across. When cybersecurity evolves as fast, or faster than the technology we rely on. Our challenge is to help define what it means to be a digital civilization and develop the protections necessary to stay ahead of those with malicious intent.
+By 2026, Trustworthy AI is no longer optional - it is the price of admission. I transform regulatory pressure into a competitive advantage, enabling organizations to deploy Ethical AI and Responsible AI (RAI) at scale.
 
-I am a cybersecurity professional. I love to proactively tackle bad guys and I work on defending and improving organization defence around the clock to ensure the safety of our customers' privacy and information and help organizations enhance their security posture before any malicious actor breaks in. I have been passionate about Cyber Security for quite a long and it keeps my spirit driving.
+My expertise navigating multi-jurisdictional regulations, including the EU AI Act, NYC Local Law 144, GDPR, CCPA/CPRA, PIPL, HIPAA, DORA, and the Digital Services Act (DSA).
 
-My experience spans diverse landscapes. I lead the Information Security, Client Data Protection (CDP), Identity Access Management, Governance, Risk management, Security compliance, Endpoint security, IDS/IPS, Security assessment, Vulnerability Management, Threat Mapping, Security Information and Event Management (SIEM), Cloud security, Security management as per global standards like DFARS, FedRamp, NIST, ISO/IEC 27001, NYDFS, GDPR, CPS234, CMMC, PCI DSS.
+I build auditable systems aligned with ISO/IEC 42001 (AIMS), ISO/IEC 23894, NIST AI RMF, SOC 2, HITRUST, and U.S. DoD AI policies, while operationalizing OECD AI Principles and FTC guidance. This approach reduces compliance debt and strengthens AI robustness through Secure AI controls via SAIF and adversarial resilience testing using MITRE ATLAS and ENISA frameworks.
 
-I am never afraid to take calculated risks to maximize impact. My risk-based outlook helps me to make the digital world  secure and safe for everyone.
+I implement Quantitative AI Risk Management, including AI TRiSM (Artificial Intelligence Trust, Risk, and Security Management), and develop actionable AI risk profiles using Key Risk Indicators (KRIs) and risk classifications in unacceptable, high, limited, and minimal categories.
+
+I manage end-to-end governance via Algorithmic Impact Assessments (AIA), Data Protection Impact Assessments (DPIA), Ethical Impact Assessments, Model Risk Management (MRM), and cross-functional AI sign-offs.
+
+I operationalize FATE principles (Fairness, Accountability, Transparency, and Explainability) and RAI frameworks through Ethics-by-Design and Privacy-by-Design. This includes deploying Privacy-Preserving AI with Privacy-Enhancing Technologies (PETs), adhering to FAIR data principles, and mitigating bias using tools like Fairlearn and AIF360 for interpretability controls and model explainability, supported by XAI (Explainable AI).
+
+I fortify AI governance postures with Governance-as-Code (GaC) and Policy-as-Code, integrating Human-in-the-Loop (HITL) alongside AI Safety, Constitutional AI, and AI Alignment practices. My oversight covers AISBOM practices, data provenance for AI auditability, and algorithmic accountability, alongside the proactive management of Shadow AI risks, OWASP LLM Top 10 vulnerabilities, and BYOA (Bring-Your-Own-Agent) scenarios.
+
+The outcomes are mature, de-risked operations featuring AI governance artifacts, maturity assessments, and strategic de-risking. By utilizing Compliance-by-Design, I enable Sustainable AI and Sovereign AI adoption, advancing national AI sovereignty and global algorithmic sovereignty via scalable AI Governance Frameworks.
+
+Let’s connect to build AI that earns trust, not just headlines.
 
 &nbsp;
 # Tech Stack
